@@ -1,0 +1,9 @@
+{
+  "name": "terraform-module-smtp-mail",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.329.0",
+    "@aws-sdk/credential-provider-node": "^3.329.0",
+    "nodemailer": "^6.9.1"
+  }
+}
